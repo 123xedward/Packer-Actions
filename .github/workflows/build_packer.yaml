@@ -7,7 +7,7 @@ name: Build & Deploy Packer Template
 on:
   push:
     branches: 
-      - master
+      - main
     paths:
       - 'templates/basic.json'
 
